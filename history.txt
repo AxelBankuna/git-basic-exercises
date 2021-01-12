@@ -1,0 +1,1000 @@
+ 1059  cd ..
+ 1060  ls
+ 1061  rm -r todolist/
+ 1062  sudo rm -r todolist/
+ 1063  ls
+ 1064  ng new todolist
+ 1065  cd todolist/
+ 1066  ng serve --open
+ 1067  newjeeeclipse tax-calculator
+ 1068  tomcatstart 
+ 1069  cd
+ 1070  cd Documents/interview-prep/
+ 1071  ls
+ 1072  sudo rm -r todolist/
+ 1073  ng new todolist
+ 1074  npm serve
+ 1075  cd todolist/
+ 1076  npm serve
+ 1077  ng serve
+ 1078  cd ..
+ 1079  cd todolist/
+ 1080  ng serve
+ 1081  createwar tax-calculator
+ 1082  ng g c components/Todos
+ 1083  ng g c components/TodoItem
+ 1084  cd ..
+ 1085  sudo rm -r todolist/
+ 1086  ng new todolist
+ 1087  cd todolist/
+ 1088  ng g c components/Todo
+ 1089  ng g c components/TodoItem
+ 1090  ng g s services/Todo
+ 1091  cd ..
+ 1092  mkdir forHttp
+ 1093  cp -r todolist/ forHttp/
+ 1094  cd Documents/interview-prep/todolist/
+ 1095  ls
+ 1096  ng serve
+ 1097  cd Documents/interview-prep/
+ 1098  ls
+ 1099  sudo rm -r todolist/
+ 1100  ng new todolist
+ 1101  cd todolist/
+ 1102  ls
+ 1103  ng g c components/Todo
+ 1104  ng g c components/TodoItem
+ 1105  ng serve --open
+ 1106  cd ..
+ 1107  ls
+ 1108  vim jsonplaceholder.txt
+ 1109  ls
+ 1110  sudo rm -r todolist/
+ 1111  ng new todolist
+ 1112  cd Documents/interview-prep/todolist/
+ 1113  ng serve
+ 1114  cd 
+ 1115  cd Documents/interview-prep/
+ 1116  ls
+ 1117  vim jsonplaceholder.txt 
+ 1118  cd todolist/
+ 1119  ls
+ 1120  ng g c components/Todo components/TodoItem
+ 1121  ng g c components/Todo
+ 1122  ng g c components/TodoItem
+ 1123  ng g s services/Todo
+ 1124  ng serve
+ 1125  cd Documents/interview-prep/
+ 1126  ls
+ 1127  sudo rm -r todolist/
+ 1128  cd Documents/interview-prep/todolist/
+ 1129  ng serve
+ 1130  cat ../jsonplaceholder.txt 
+ 1131  ng g c components/AddTodo
+ 1132  cd ..
+ 1133  sudo rm -r todolist/
+ 1134  ng new todolist
+ 1135  npm install -g npm
+ 1136  cd todolist/
+ 1137  ng g c components/Todo
+ 1138  ng g c components/TodoItem
+ 1139  ng g c components/AddTodo
+ 1140  ng g s services/Todo
+ 1141  cat ../jsonplaceholder.txt 
+ 1142  cat ../angular-todolist/src/app/components/add-todo/add-todo.component.ts
+ 1143  cd ..
+ 1144  sudo rm -r todolist/
+ 1145  ng new todolist
+ 1146  npm i -g npm
+ 1147  sudo npm i -g npm
+ 1148  cd todolist/
+ 1149  ng g c components/Todo
+ 1150  ng g c components/TodoItem
+ 1151  ng g c components/AddTodo
+ 1152  ng g s services/Todo
+ 1153  cat ../jsonplaceholder.txt 
+ 1154  cat ../angular-todolist/src/app/components/add-todo/add-todo.component.ts 
+ 1155  cd Documents/interview-prep/
+ 1156  ls
+ 1157  sudo rm -r todolist/
+ 1158  ng new todolist
+ 1159  cd todolist/
+ 1160  ng g c components/Todo
+ 1161  ng g c components/TodoItem
+ 1162  ng g c components/AddTodo
+ 1163  ng g s services/Todo
+ 1164  ng serve
+ 1165  cd ..
+ 1166  cd todolist/
+ 1167  ng serve
+ 1168  cd ..
+ 1169  ls
+ 1170  mongostart 
+ 1171  mkdir meanauthapp
+ 1172  cd meanauthapp/
+ 1173  npm init
+ 1174  npm install express mongoose bcryptjs cors jsonwebtoken body-parser passport passport-jwt -save
+ 1175  npm start
+ 1176  nodemon
+ 1177  mongodb
+ 1178  mongod
+ 1179  mongo
+ 1180  cd Documents/interview-prep/meanauthapp/
+ 1181  nodemon 
+ 1182  mongostart 
+ 1183  nodemon 
+ 1184  wget http://download-new.utorrent.com/endpoint/utserver/os/linux-x64-ubuntu-13-04/track/beta/ -O utserver.tar.gz
+ 1185  sudo tar -zxvf utserver.tar.gz -C /opt/
+ 1186  sudo chown root:root -R /opt/utorrent-server-alpha-v3_3/
+ 1187  sudo ln -s /opt/utorrent-server-alpha-v3_3/utserver /usr/bin/utserver
+ 1188  utserver -settingspath /opt/utorrent-server-alpha-v3_3/ &
+ 1189  ifconfig
+ 1190  sudo apt-get purge transmission-gtk
+ 1191  sudo add-apt-repository ppa:transmissionbt/ppa
+ 1192  sudo apt-get update
+ 1193  sudo apt-get install transmission-gtk transmission-cli transmission-common transmission-daemon
+ 1194  cd /opt/
+ 1195  ls
+ 1196  mkdir transmission
+ 1197  groups
+ 1198  cd
+ 1199  mkdir Programs
+ 1200  cd Programs/
+ 1201  cd ..
+ 1202  sudo rm -r Programs/
+ 1203  sudo adduser TransmissionUser
+ 1204  sudo adduser transmissionUser
+ 1205  sudo adduser transmissionuser
+ 1206  su transmissionuser 
+ 1207  su transmissionuser 
+ 1208  groups
+ 1209  sudo adduser transmissionuser sudo
+ 1210  cd Documents/interview-prep/meanauthapp/
+ 1211  ls
+ 1212  nodemon 
+ 1213  mongostart 
+ 1214  nodemon 
+ 1215  cat config/passport.js 
+ 1216  cat routes/users.js 
+ 1217  cd
+ 1218  cd Documents/umuzi/tutorial/auth-app-traversy/
+ 1219  cat config/passport.js 
+ 1220  cat routes/users.js 
+ 1221  ls
+ 1222  cd routes/
+ 1223  ls
+ 1224  cat users.js
+ 1225  cd ..
+ 1226  ls
+ 1227  cat app.js 
+ 1228  vim app.js 
+ 1229  cd ~/Documents/interview-prep/meanauthapp/config/
+ 1230  cat passport.js 
+ 1231  nodemon 
+ 1232  cd ..
+ 1233  nodemon 
+ 1234  mongostart 
+ 1235  nodemon 
+ 1236  cd Documents/umuzi/
+ 1237  ls
+ 1238  cd angular/
+ 1239  ls
+ 1240  cd mean-course/
+ 1241  ls
+ 1242  cd ..
+ 1243  ls
+ 1244  cd ..
+ 1245  ls
+ 1246  cd ..
+ 1247  ls
+ 1248  cd umuzi/
+ 1249  ls
+ 1250  cd tutorial/
+ 1251  ls
+ 1252  cd auth-app-traversy/
+ 1253  ls
+ 1254  cd config/
+ 1255  ls
+ 1256  cat passport.js 
+ 1257  cd ..
+ 1258  nodemon 
+ 1259  tojee 
+ 1260  ls
+ 1261  cd tax-calculator/
+ 1262  ls
+ 1263  cd build/
+ 1264  ls
+ 1265  cd ..
+ 1266  ls
+ 1267  cd bin/
+ 1268  ls
+ 1269  cd ..
+ 1270  ls
+ 1271  cd ..
+ 1272  ls
+ 1273  cd my-first-servlet/
+ 1274  ls
+ 1275  ls build/
+ 1276  ls
+ 1277  cd src/
+ 1278  ls
+ 1279  cd ..
+ 1280  ls
+ 1281  cd webcontent/
+ 1282  ls
+ 1283  cd ..
+ 1284  ls
+ 1285  cd first-servlet/
+ 1286  ls
+ 1287  ls -la
+ 1288  ls -ls src/
+ 1289  tree
+ 1290  cd Documents/interview-prep/meanauthapp/config/
+ 1291  cat passport.js 
+ 1292  cd ../routes/
+ 1293  cat users.js 
+ 1294  vim users.js 
+ 1295  cd ..
+ 1296  ls
+ 1297  nodemon 
+ 1298  mongostart 
+ 1299  nodemon 
+ 1300  cd Documents/umuzi/tutorial/auth-app-traversy/
+ 1301  ls
+ 1302  cd config/
+ 1303  ls
+ 1304  cat passport.js 
+ 1305  cd ..
+ 1306  ls
+ 1307  cd routes/
+ 1308  ls
+ 1309  cat users.js 
+ 1310  cd ..
+ 1311  nodemon 
+ 1312  cd ..
+ 1313  node
+ 1314  ls
+ 1315  cd Documents/umuzi/tutorial/
+ 1316  ls
+ 1317  cd auth-app-traversy/
+ 1318  ls
+ 1319  cd config/
+ 1320  ls
+ 1321  cat database.js 
+ 1322  cat passport.js 
+ 1323  cd ../../umuzi/tutorial/auth-app-traversy/
+ 1324  mongostart 
+ 1325  nodemon 
+ 1326  cd Documents/interview-prep/meanauthapp/
+ 1327  rm routes/.users.js.swp 
+ 1328  vim routes/users.js 
+ 1329  cd Documents/umuzi/tutorial/auth-app-traversy/
+ 1330  vim routes/users.js 
+ 1331  rm routes/*.swp
+ 1332  ls routes/
+ 1333  ls -la routes/
+ 1334  rm routes/.users.js.swp 
+ 1335  vim routes/users.js 
+ 1336  cd Documents/
+ 1337  mkdir vanity
+ 1338  cd vanity/
+ 1339  git clone https://github.com/AxelBankuna/angular-firebase-tutorial.git
+ 1340  ls
+ 1341  cd angular-firebase-tutorial/
+ 1342  ls
+ 1343  npm install
+ 1344  git remote add origin https://github.com/AxelBankuna/angular-firebase-tutorial
+ 1345  git add .
+ 1346  git commit -m "evening"
+ 1347  git push
+ 1348  cd Documents/vanity/angular-firebase-tutorial/
+ 1349  ls
+ 1350  ng serve
+ 1351  cd Documents/vanity/
+ 1352  ls
+ 1353  cd angular-firebase-tutorial/
+ 1354  ls
+ 1355  cd src/
+ 1356  ls
+ 1357  cd ..
+ 1358  git clone https://github.com/AxelBankuna/connexme.git
+ 1359  cd connexme/
+ 1360  ls
+ 1361  cd frontend/
+ 1362  ls
+ 1363  cd ..
+ 1364  git clone https://github.com/AxelBankuna/connex-app.git
+ 1365  cd connex-app/
+ 1366  ls
+ 1367  cd src/
+ 1368  ls
+ 1369  cd app/
+ 1370  ls
+ 1371  ng g c components/auth/registration
+ 1372  ng g c components/auth/login --skipTests
+ 1373  ng g c components/home --skipTests
+ 1374  ng g s services/auth/auth
+ 1375  vim /home/axel/.npm/_logs/2020-03-13T03_57_25_569Z-debug.log
+ 1376  cat /home/axel/.npm/_logs/2020-03-13T03_57_25_569Z-debug.log
+ 1377  vim /home/axel/.npm/_logs/2020-03-13T03_57_25_569Z-debug.log
+ 1378  cat /home/axel/.npm/_logs/2020-03-13T03_57_25_569Z-debug.log | grep "Unexpected end of JSON input"
+ 1379  cd Documents/vanity/
+ 1380  ls
+ 1381  ng new FirebaseEmailAuth
+ 1382  ls
+ 1383  cd FirebaseEmailAuth/
+ 1384  npm install firebase @angular/fire --save
+ 1385  npm i bootstrap --save
+ 1386  npm serve --o
+ 1387  ng serve --o
+ 1388  npm i firebase @angular/firebase --save
+ 1389  npm i firebase @angular/fire --save
+ 1390  ls
+ 1391  npm install firebase @angular/fire --save
+ 1392  npm install
+ 1393  npm install firebase @angular/fire --save
+ 1394  npm install
+ 1395  npm cache clean --force
+ 1396  npm install
+ 1397  npm g c login components/login
+ 1398  ng g c components/login
+ 1399  ng g c components/subscriptions --skipTests
+ 1400  git add .
+ 1401  git commit -m "nightshift"
+ 1402  git push
+ 1403  ng serve --port 4400
+ 1404  cd Documents/vanity/connex-app/
+ 1405  ls 
+ 1406  cd src/app/
+ 1407  ls
+ 1408  cd services/
+ 1409  ls
+ 1410  cd ..
+ 1411  ls components/
+ 1412  cd ..
+ 1413  git stash
+ 1414  git pull
+ 1415  cd Documents/vanity/
+ 1416  ls
+ 1417  cd angular-firebase-tutorial/
+ 1418  ls
+ 1419  cd ..
+ 1420  ng new ang7-crud
+ 1421  sudo rm -r ang7-crud/
+ 1422  ng new ang7-crud
+ 1423  cd ang7-crud/
+ 1424  npm i firebase @angular/fire --s
+ 1425  ng serve --o
+ 1426  npm i bootstrap --s
+ 1427  npm install --save font-awesome angular-font-awesome
+ 1428  ng g c components/employees --skipTests
+ 1429  ng g c components/employee --skipTests
+ 1430  ng g c components/employee-list --skipTests
+ 1431  ng g s services/employee --skipTests
+ 1432  npm i ngx-toastr --save
+ 1433  npm i @angular/animations --save
+ 1434  cd Documents/vanity/ang7-crud/
+ 1435  ng serve
+ 1436  cd Documents/vanity/ang7-crud/
+ 1437  ng serve
+ 1438  cd
+ 1439  ng update @angular/core @angular/cli
+ 1440  ng update @angular/core @angular/cli -g
+ 1441  npm i @angular/fire firebase --save
+ 1442  cd Documents/vanity/connex-app/
+ 1443  ls
+ 1444  cd src/
+ 1445  ls
+ 1446  cd app/
+ 1447  ls
+ 1448  cd services/
+ 1449  ls
+ 1450  cd ../../
+ 1451  cd ..
+ 1452  ng serve
+ 1453  cd Documents/interview-prep/
+ 1454  ls
+ 1455  cd angular-todolist/
+ 1456  ls
+ 1457  cd src/app/
+ 1458  ls
+ 1459  cd components/
+ 1460  ls
+ 1461  cd layout/
+ 1462  ls
+ 1463  cd ..
+ 1464  ls
+ 1465  cd todo-item/
+ 1466  ls
+ 1467  vim todo-item.component.html 
+ 1468  vim todo-item.component.ts 
+ 1469  git clone https://github.com/leafgarland/typescript-vim.git ~/.vim/pack/typescript/start/typescript-vim
+ 1470  cd ..
+ 1471  ls
+ 1472  cd ang7-crud/
+ 1473  ls
+ 1474  vim package.json 
+ 1475  cd Documents/vanity/connex-app/
+ 1476  ls
+ 1477  git add .
+ 1478  git commit -m "wed morning"
+ 1479  git push
+ 1480  git pull
+ 1481  cd Documents/vanity/connex-app/
+ 1482  ls
+ 1483  cd src/app/
+ 1484  ls
+ 1485  cd components/
+ 1486  ls
+ 1487  cd ../..
+ 1488  ls
+ 1489  cd ..
+ 1490  ls
+ 1491  git pull
+ 1492  npm install
+ 1493  ng serve
+ 1494  ng serve --port 4400
+ 1495  cd ..
+ 1496  ls
+ 1497  mkdir testing
+ 1498  cd testing/
+ 1499  git clone https://github.com/AxelBankuna/connex-app.git
+ 1500  cd connex-app/
+ 1501  npm install
+ 1502  ng serve --port 4400
+ 1503  git add .
+ 1504  git commit -m "late night push"
+ 1505  git push
+ 1506  npm install --save ng-payment-card
+ 1507  cd ..
+ 1508  git clone git@github.com:Bartosz-D3V/ng-payment-card.git
+ 1509  cd ng-payment-card/
+ 1510  npm install
+ 1511  ng serve --port 4600
+ 1512  cd ..
+ 1513  cd testing/
+ 1514  ls
+ 1515  cd ..
+ 1516  ls
+ 1517  cd testing/
+ 1518  ng new payment-app
+ 1519  cd payment-app/
+ 1520  ng serve --port 4400
+ 1521  cd Documents/vanity/connex-app/
+ 1522  ng serve
+ 1523  cd ../testing/connex-app/
+ 1524  ng serve
+ 1525  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+ 1526  echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+ 1527  sudo apt update
+ 1528  sudo apt install yarn
+ 1529  yar --v
+ 1530  yarn --v
+ 1531  cd Documents/vanity/testing/
+ 1532  git clone https://github.com/ng-bootstrap/ng-bootstrap.git
+ 1533  cd ng-bootstrap/
+ 1534  npm install
+ 1535  yarn install
+ 1536  ls
+ 1537  ng serve
+ 1538  git add .
+ 1539  git commit -m "monday morning"
+ 1540  git push
+ 1541  cd Downloads/
+ 1542  sudo apt install ./zoom_amd64.deb 
+ 1543  apt-get update
+ 1544  sudo apt-get update
+ 1545  sudo apt install ./zoom_amd64.deb 
+ 1546  cd
+ 1547  sudo apt install gdebi
+ 1548  node
+ 1549  cd
+ 1550  vim .bashrc 
+ 1551  cd
+ 1552  vim .bashrc 
+ 1553  cd
+ 1554  vim .bashrc 
+ 1555  cd Downloads/
+ 1556  $ unzip ~/Downloads/balena-etcher-electron-1.5.47-linux-x64.zip
+ 1557  unzip ~/Downloads/balena-etcher-electron-1.5.47-linux-x64.zip
+ 1558  unzip balena-etcher-electron-1.5.47-linux-x64.zip
+ 1559  unzip balena-etcher-electron-1.5.45-linux-x64.zip 
+ 1560  ./balenaEtcher-1.5.47-x64.AppImage
+ 1561  ./balenaEtcher-1.5.45-x64.AppImage 
+ 1562  ./balenaEtcher-1.5.45-x64.AppImage cd
+ 1563  cd
+ 1564  ./balenaEtcher-1.5.45-x64.AppImage cd
+ 1565  cd Downloads/
+ 1566  ./balenaEtcher-1.5.45-x64.AppImage cd
+ 1567  ./balenaEtcher-1.5.45-x64.AppImage
+ 1568  cd
+ 1569  etcher 
+ 1570  vim .bashrc
+ 1571  sudo rm .bashrc.swp 
+ 1572  vim .bashrc
+ 1573  vim employee.component.html 
+ 1574  cd ../employee
+ 1575  vim employee.component.ts 
+ 1576  cd Documents/vanity/
+ 1577  ls
+ 1578  mkdir tutorial
+ 1579  cd tutorial/
+ 1580  mkdir serve-angular
+ 1581  cd serve-angular/
+ 1582  npm init
+ 1583  ls
+ 1584  cd
+ 1585  cd Documents/vanity/
+ 1586  git clone https://github.com/BelledonneCommunications/linphone-windows10.git
+ 1587  cd linphone-windows10/
+ 1588  python prepare.py
+ 1589  python prepare.py -C
+ 1590  tree
+ 1591  tree --help
+ 1592  python --help
+ 1593  vim .bashrc 
+ 1594  mkdir deep-core
+ 1595  cd deep-core/
+ 1596  git clone https://github.com/angular-university/angular-course.git
+ 1597  git checkout -b 1-components origin/1-components
+ 1598  cd angular-course/
+ 1599  git checkout -b 1-components origin/1-components
+ 1600  npm install
+ 1601  sudo ng serve
+ 1602  ng g c course-card --skipTests
+ 1603  ng g c course-image --skipTests
+ 1604  git checkout -b 2-directives origin/2-directives
+ 1605  processes 
+ 1606  cd Documents/
+ 1607  ls
+ 1608  vim myapology.txt
+ 1609  ng g directive directives/ngx-unless --skipTests
+ 1610  processes 
+ 1611  sudo add-apt-repository ppa:stebbins/handbrake-releases
+ 1612  sudo apt-get update
+ 1613  apt-get install handbrake-gtk
+ 1614  sudo apt-get install handbrake-gtk
+ 1615  npm run server
+ 1616  npm start
+ 1617  ng serve --configuration=fr
+ 1618  ng build --configuration-fr --prod
+ 1619  ng build --configuration=fr --prod
+ 1620  npm start
+ 1621  npm install -g typescript
+ 1622  tsc -v
+ 1623  which tsc
+ 1624  tsc -v
+ 1625  sudo npm install -g typescript
+ 1626  tsc -v
+ 1627  which tsc
+ 1628  cd
+ 1629  which tsc
+ 1630  ng g module Courses
+ 1631  ng xi18n
+ 1632  ng g component course-title -skipTests
+ 1633  which tsc
+ 1634  cd
+ 1635  cd Documents/
+ 1636  ls
+ 1637  mkdir delete
+ 1638  cd delete/
+ 1639  vim delete.ts
+ 1640  tsc delete.ts 
+ 1641  ls
+ 1642  node delete.js 
+ 1643  cd ..
+ 1644  rm -r delete/
+ 1645  cd my-project/samples/
+ 1646  tsc ./hello-world.ts 
+ 1647  ls
+ 1648  tsc hello-world.ts 
+ 1649  node hello-world.js 
+ 1650  tsc hello-world.ts 
+ 1651  which tsc
+ 1652  cd samples/
+ 1653  tsc hello-world.ts 
+ 1654  git checkout tags/section2-1
+ 1655  git checkout tags
+ 1656  git branck -a
+ 1657  git branch -a
+ 1658  git checkout tag
+ 1659  git checkout tag
+ 1660  cd ../
+ 1661  cd complete-typescript-course/
+ 1662  git checkout tag
+ 1663  git checkout tags
+ 1664  git checkout tags/section2-1
+ 1665  git pull
+ 1666  ls
+ 1667  git tag
+ 1668  git checkout tags/lesson-2
+ 1669  ls
+ 1670  git checkout tags/section-2-3
+ 1671  ls
+ 1672  cd Documents/angular-university/complete-typescript-course/
+ 1673  ls
+ 1674  cd samples/
+ 1675  tsc hello-world.ts 
+ 1676  ls
+ 1677  cd Documents/angular-university/complete-typescript-course/
+ 1678  vim tsconfig.json 
+ 1679  cd Documents/
+ 1680  mkdir delete
+ 1681  cd delete/
+ 1682  npm init -y
+ 1683  tsc init
+ 1684  typescript init
+ 1685  tsc --init
+ 1686  vim mytest.tsc
+ 1687  vim tsconfig.json 
+ 1688  ls
+ 1689  tsc mytest.tsc 
+ 1690  mv mytest.tsc mytest.ts
+ 1691  tsc mytest.ts 
+ 1692  ls
+ 1693  cd ..
+ 1694  rm -r delete/
+ 1695  cd Documents/angular-university/complete-typescript-course/samples/
+ 1696  ls
+ 1697  tsc hello-world.ts 
+ 1698  ls
+ 1699  processes 
+ 1700  npm run es5
+ 1701  npm run es6
+ 1702  uname -m
+ 1703  npm init
+ 1704  npm install
+ 1705  npm install -g npm
+ 1706  sudo npm install -g npm
+ 1707  npm run build
+ 1708  npm serve
+ 1709  npm i -g serve
+ 1710  sudo npm i -g serve
+ 1711  serve -s build
+ 1712  serve
+ 1713  serve -s
+ 1714  serve -s public
+ 1715  npm run build
+ 1716  serve -s build
+ 1717  npm run build
+ 1718  serve -s build
+ 1719  npm run build
+ 1720  serve -s build
+ 1721  npm run build
+ 1722  serve -s build
+ 1723  npm run build
+ 1724  serve -s build
+ 1725  npm run build
+ 1726  serve -s build
+ 1727  npm run build
+ 1728  serve -s build
+ 1729  npm run build
+ 1730  serve -s build
+ 1731  npm start
+ 1732  ls
+ 1733  cd amazon-clone/
+ 1734  npm start
+ 1735  npm i firebase
+ 1736  cd amazon-clone/
+ 1737  npm i firebase
+ 1738  ls
+ 1739  firebase login
+ 1740  npm i -g firebase-tools
+ 1741  sudo npm i -g firebase-tools
+ 1742  firebase login
+ 1743  firebase init
+ 1744  npm run build
+ 1745  firebase deploy
+ 1746  cd amazon-clone/
+ 1747  ls
+ 1748  cd amazon-clone/
+ 1749  ls
+ 1750  npm install --save react-notifications
+ 1751  npm i react-router-dom
+ 1752  npm i react-currency-format
+ 1753  ls
+ 1754  cd amazon-clone/
+ 1755  ls
+ 1756  cd node_modules/
+ 1757  ls
+ 1758  cd ..
+ 1759  npm i react-router-dom
+ 1760  npm i react-currency-format
+ 1761  npm start
+ 1762  cd amazon-clone/
+ 1763  npm start
+ 1764  cd amazon-clone/
+ 1765  npm start
+ 1766  cd amazon-clone/
+ 1767  npm start
+ 1768  cd amazon-clone/
+ 1769  npm i axios
+ 1770  ls
+ 1771  pwd
+ 1772  firebase init
+ 1773  cd functions/
+ 1774  ls
+ 1775  npm i express
+ 1776  npm i cors
+ 1777  npm i stripe
+ 1778  firebase emulators:start
+ 1779  cd amazon-clone/
+ 1780  npm i @stripe/stripe-js
+ 1781  npm i @stripe/react-stripe-js
+ 1782  ls
+ 1783  cd amazon-clone/
+ 1784  ls
+ 1785  npm start
+ 1786  cd amazon-clone/
+ 1787  ls
+ 1788  cd amazon-clone/
+ 1789  cd functions/
+ 1790  ls
+ 1791  cd amazon-clone/functions/
+ 1792  ls
+ 1793  firebase emulators:start
+ 1794  cd amazon-clone/
+ 1795  ls
+ 1796  npm start
+ 1797  cd amazon-clone/functions/
+ 1798  npm install xmlhttprequest
+ 1799  cd amazon-clone/
+ 1800  npm i --save-dev http-proxy-middleware
+ 1801  cd amazon-clone/functions/
+ 1802  firebase emulators:start
+ 1803  cd amazon-clone/
+ 1804  ls
+ 1805  npm start
+ 1806  [A
+ 1807  npm start
+ 1808  cd .ssh/
+ 1809  ls
+ 1810  ls -a
+ 1811  vim id_rsa
+ 1812  cd .ssh/
+ 1813  ls
+ 1814  pbcopy > id_rsa.pub 
+ 1815  pbcopy < id_rsa.pub 
+ 1816  sudo apt-get install xclip
+ 1817  cat id_rsa.pub | xclip
+ 1818  ls
+ 1819  cd .ssh/
+ 1820  cat id_rsa.pub | xclip
+ 1821  cat id_rsa.pub 
+ 1822  ls
+ 1823  vim id_rsa.pub 
+ 1824  vim hello
+ 1825  cat hello 
+ 1826  cat hello | xclip
+ 1827  cat hello 
+ 1828  cat hello | xclip
+ 1829  cat hello 
+ 1830  xclip -o
+ 1831  vim id_rsa.pub 
+ 1832  ssh-keygen -t rsa -b 4096 -C "axethedev@gmail.com"
+ 1833  ls
+ 1834  vim ssh_key.pub 
+ 1835  cat ssh_key.pub 
+ 1836  ssh-add -l
+ 1837  npm start
+ 1838  npm i tachyons
+ 1839  cd Documents/
+ 1840  ls
+ 1841  mkdir react-email
+ 1842  cd Documents/
+ 1843  rm -rf react-email/
+ 1844  mkdir react-email
+ 1845  create-react-app contact-us-form
+ 1846  cd ..
+ 1847  cd react-email/
+ 1848  create-react-app contact-us-form
+ 1849  ls
+ 1850  cd contact-us-form/
+ 1851  ls
+ 1852  npm install react-bootstrap@1.0.0-beta.16 bootstrap@4.4.1
+ 1853  npm start
+ 1854  ls
+ 1855  npm start
+ 1856  npm run start-app
+ 1857  npm install nodemailer@6.4.3 --save-dev
+ 1858  npm install dotenv@8.2.0 --save-dev
+ 1859  npm run start-app
+ 1860  ls
+ 1861  npm start
+ 1862  ls
+ 1863  heroku login
+ 1864  git add .
+ 1865  git commit -m "styling"
+ 1866  git push heroku master
+ 1867  ls
+ 1868  cd
+ 1869  cd Documents/umuzi/angular/memory-game/
+ 1870  ls
+ 1871  git push
+ 1872  ls
+ 1873  git push
+ 1874  ls
+ 1875  cd ..
+ 1876  ls
+ 1877  ng build
+ 1878  ls
+ 1879  git add .
+ 1880  git commit -m "deploy netlify"
+ 1881  git push
+ 1882  ~/.ssh/config
+ 1883  git push
+ 1884  ls
+ 1885  npm run start-app
+ 1886  git add .
+ 1887  ls
+ 1888  git init
+ 1889  git add .
+ 1890  git commit -m "initial commit"
+ 1891  git remote add origin git@github.com:AxelBankuna/myPortfolio.git
+ 1892  git push
+ 1893  git push --set-upstream orogin master
+ 1894  git branch -M main
+ 1895  git push -u origin main
+ 1896  git add .
+ 1897  git commit -m "fixed a tag"
+ 1898  git push
+ 1899  git add .
+ 1900  git commit -m "edited footer"
+ 1901  git push
+ 1902  git add .
+ 1903  git commit -m "removed unused import"
+ 1904  git push
+ 1905  npm run start-app
+ 1906  git add .
+ 1907  git commit -m "fixed email"
+ 1908  git push
+ 1909  git add .
+ 1910  git commit -m "email..."
+ 1911  git push
+ 1912  git add .
+ 1913  git commit -m "email again"
+ 1914  git push
+ 1915  git add .
+ 1916  git commit -m "email again..."
+ 1917  git push
+ 1918  ls
+ 1919  heroku login
+ 1920  git add .
+ 1921  git commit -am "deploy to heroku"
+ 1922  git add .
+ 1923  git commit -am "deploy to heroku"
+ 1924  heroku git:remote -a axelbukasaportfolio
+ 1925  git push heroku master
+ 1926  git push heroku main
+ 1927  heroku logs -tail
+ 1928  git add .
+ 1929  git commit -m "redeploy"
+ 1930  git push heroku main
+ 1931  heroku logs -tail
+ 1932  npm build -prod
+ 1933  npm build
+ 1934  npm run build
+ 1935  git add .
+ 1936  git commit -m "depoy3"
+ 1937  heroku push main
+ 1938  heroku logs -tail
+ 1939  npm node server/index.js
+ 1940  node server/index.js
+ 1941  node index.js
+ 1942  git add .
+ 1943  git commit -m "deploy4"
+ 1944  heroku push main
+ 1945  n
+ 1946  heroku push main
+ 1947  ls
+ 1948  git heroku push main
+ 1949  git push heroku main
+ 1950  heroku logs --tail
+ 1951  npm start
+ 1952  git add .
+ 1953  git commit -m "deploy4"
+ 1954  git push heroku main
+ 1955  heroku logs --tail
+ 1956  git add .
+ 1957  git commit -m "deploy5"
+ 1958  git push heroku main
+ 1959  pwd
+ 1960  cd Documents/
+ 1961  ls
+ 1962  cd 
+ 1963  ls
+ 1964  ls | grep .txt
+ 1965  cd ..
+ 1966  ls | grep .txt
+ 1967  pwd
+ 1968  ls
+ 1969  cd ..
+ 1970  ls
+ 1971  pwd
+ 1972  ls | grep .txt
+ 1973  ls
+ 1974  cd ..
+ 1975  pwd
+ 1976  ls
+ 1977  ls -la
+ 1978  ls -la | grep .txt
+ 1979  cd
+ 1980  ls
+ 1981  cd Public/
+ 1982  ls
+ 1983  ls -la
+ 1984  ls
+ 1985  cd
+ 1986  ls
+ 1987  pwd
+ 1988  ls | grep .txt
+ 1989  cat toDelete.txt 
+ 1990  pwd
+ 1991  cd ..
+ 1992  ls
+ 1993  cd ..
+ 1994  ls
+ 1995  cd tmp/
+ 1996  ls
+ 1997  cd
+ 1998  cd Documents/
+ 1999  vim preptest.js
+ 2000  mongostart 
+ 2001  cd Documents/
+ 2002  mkdir umuzi-2021
+ 2003  cd umuzi-2021/
+ 2004  ls
+ 2005  mkdir java-bootcamp
+ 2006  cd java-bootcamp/
+ 2007  mkdir git-basics-exercises
+ 2008  cd git-basics-exercises/
+ 2009  ls -a
+ 2010  git init
+ 2011  ls -a
+ 2012  touch README.md
+ 2013  ls -a
+ 2014  git log
+ 2015  git add README.md 
+ 2016  git status
+ 2017  git log
+ 2018  git status
+ 2019  git rm --cached README.md 
+ 2020  git status
+ 2021  git add README.md 
+ 2022  git commit -m "initial commit"
+ 2023  git log
+ 2024  vim README.md 
+ 2025  cat README.md 
+ 2026  git stat
+ 2027  git status
+ 2028  git add README.md 
+ 2029  git status
+ 2030  git commit -m "second commit"
+ 2031  vim README.md 
+ 2032  git status
+ 2033  git add README.md 
+ 2034  git commit -m "third commit"
+ 2035  git log
+ 2036  git checkout 1e15e95c84dd4ea4c0e7d7bd92c5319497758305
+ 2037  cat README.md 
+ 2038  git checkout master 
+ 2039  cat README.md 
+ 2040  git branch
+ 2041  git branch milkshake-flavours
+ 2042  git branch
+ 2043  git checkout milkshake-flavours 
+ 2044  git branch
+ 2045  vim milkshakes.md
+ 2046  git status
+ 2047  git add milkshakes.md 
+ 2048  git commit -m "added initial flavours"
+ 2049  git log
+ 2050  git checkout master 
+ 2051  git status
+ 2052  git log
+ 2053  git status
+ 2054  git branch history
+ 2055  git checkout history 
+ 2056  git log
+ 2057  git branch
+ 2058  history > history.txt
